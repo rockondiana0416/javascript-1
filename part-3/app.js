@@ -42,7 +42,7 @@ val = firstName.slice(0, 4),
 val = str.split(' '); //This will split my string into an array
 val = tags.split(',');
 
-// replace
+// replace 
 val = str.replace('Brad', 'Jack'); //This will replace Brad with Jack
 
 // includes
